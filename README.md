@@ -9,3 +9,5 @@ Rails Asset Tag and Form Helper Snippets<br/>
 Offline Spell Checker<br/>
 [https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
 
+Markdown Preview Github Styling<br/>
+[https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
