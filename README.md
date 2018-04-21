@@ -6,4 +6,6 @@ Ruby language add-on<br/>
 Rails Asset Tag and Form Helper Snippets<br/>
 [https://marketplace.visualstudio.com/items?itemName=bung87.rails](https://marketplace.visualstudio.com/items?itemName=bung87.rails)
 
+Offline Spell Checker<br/>
+[https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker](https://marketplace.visualstudio.com/items?itemName=swyphcosmo.spellchecker)
 
