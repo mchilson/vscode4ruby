@@ -11,3 +11,6 @@ Offline Spell Checker<br/>
 
 Markdown Preview Github Styling<br/>
 [https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+
+VSCode Great Icons<br/>
+
