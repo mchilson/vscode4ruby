@@ -1,4 +1,4 @@
-# Favorite Add-on's For Ruby Development In VSCode
+# My Favorite Add-on's For Ruby Development In VSCode
 
 Ruby language add-on<br/>
 [https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
@@ -11,6 +11,9 @@ Offline Spell Checker<br/>
 
 Markdown Preview Github Styling<br/>
 [https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+
+Bracket Pair Colorizer<br/>
+[https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 vscode-icons<br/>
 [https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
